@@ -1,22 +1,7 @@
-# LaTeX user template and guide
+# EODCM: Application of an Ensemble method supported by Ontology-Driven Conceptual Modeling to predict the range of a military naval platform
 
-To compile user guide:
+## License
+This project use Creative Commons License Attribution 4.0 International (CC BY 4.0)
 
-1. `pdflatex sample-1col`
-2. `bibtex sample-1col`
-3. `pdflatex sample-1col`
-4. `pdflatex sample-1col`
-
-and
-
-1. `pdflatex sample-2col`
-2. `bibtex sample-2col`
-3. `pdflatex sample-2col`
-4. `pdflatex sample-2col`
-
-or
-
-use the makefile:
-
-`make`
-
+## Authores
+- **Valquire da Silva de Jesus** - [@Valquire](https://github.com/Valquire)
