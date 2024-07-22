@@ -5,3 +5,6 @@ This project use Creative Commons License Attribution 4.0 International (CC BY 4
 
 ## Authores
 - **Valquire da Silva de Jesus** - [@Valquire](https://github.com/Valquire)
+- **Kelli de Faria Cordeiro**
+- **Giseli Rabello Lopes**
+- **Maria Luiza Machado Campos**
