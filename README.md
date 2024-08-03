@@ -1,4 +1,4 @@
-# EODCM: Application of an Ensemble method supported by Ontology-Driven Conceptual Modeling to predict the endurance of a military naval platform
+# Predicting the Endurance of Naval Military Platforms for Support to Decision Making in Joint Operations
 
 ## License
 This project use Creative Commons License Attribution 4.0 International (CC BY 4.0)
